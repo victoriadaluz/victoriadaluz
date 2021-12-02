@@ -9,9 +9,9 @@
 ##### BIO
 
 - 🏢 I'm currently available for work or any freelance projects
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.sql`, `.ejs`, `.jsx`, `.json`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.sql`, `.ejs`, `.jsx`, `.json`, `.py`
 - 🌍 I'm mostly active within the **JavaScript Community**, **masmujeresux.ar**, **asaditojs**
-- 🌱 Learning all about **React**
+- 🌱 Learning about **React**, **AWS**, **Serverless Stack**
 - 💬 Ask me about **music**, **anime**, **cats**, **development**, **back-end developing**, **github**
 - 📫 Reach me: [linkedin.com/in/victoriadaluz/](https://www.linkedin.com/in/victoriadaluz/)
 - ⚡️ Fun fact: I can talk about music, cats and cooking for hours. Ask me something about it!
