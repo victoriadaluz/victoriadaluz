@@ -3,8 +3,8 @@
 ![mygif](https://user-images.githubusercontent.com/74981864/144459238-9d47479b-0737-4c89-b7bb-90b64d440e48.gif)
 
 ##### NOW
-
-- ✨ Working on a Digital House, Fundación Formar and Santander Río e-commerce project: Barbanegra, an e-commerce of barbershop supplies [GitHub Repo](https://github.com/victoriadaluz/grupo_3_barbanegra);
+- ✨ Currently Working for Clarity S.A
+- ✨ I worked on a Digital House, Fundación Formar and Santander Río e-commerce project: Barbanegra, an e-commerce of barbershop supplies [GitHub Repo](https://github.com/victoriadaluz/grupo_3_barbanegra);
 
 ##### BIO
 
